@@ -1,0 +1,5 @@
+{
+  "name": "Smart Excel-Like Calculator",
+  "description": "A powerful table-based calculator with real-time updates, Excel copy-paste support, and XLSX export functionality.",
+  "requestFramePermissions": []
+}
